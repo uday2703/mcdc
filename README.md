@@ -1,2 +1,2 @@
 # mcdc
-minecraft docker container
+Minecraft docker container
